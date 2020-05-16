@@ -1,6 +1,3 @@
 Hola soy Kevin y estoy a prendiendo git
 Ahora creo que sgire estudiando
 
-Master 1
-
-Master 2
